@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NavigationApp</string>
+    <string name="buttonStart">Start</string>
+    <string name="buttonEnd">End</string>
+    <string name="apiKey">AIzaSyBCluV-ZK2DE2ul9xm1mALBnpD7corMkXM</string>
+</resources>
